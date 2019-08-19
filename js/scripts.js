@@ -8,7 +8,6 @@ $(document).ready(function() {
     });
 
     blanks.sort();
-    alert(userinput);
     $("#story").show();
 
     event.preventDefault();
